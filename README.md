@@ -4,18 +4,18 @@
     nayookyaw.nok@gmail.com
 
 * About
-    This project is to manage points on canvas/ image <br>
+    This project is to manage points on canvas/ image according to x,y coordinates<br>
     We can add points, delete points and show/preview back these points on canvas <br>
-    I stored these points in Localstorage temporarily <br>
+    I stored these points coordinates in Localstorage temporarily <br>
 
-* Demo <br><br>
+* Live Demo <br><br>
 ![](demo_live.gif)
 
 * Video Demo <br><br>
 [![IMAGE ALT TEXT HERE](thubnail.png)](https://youtu.be/oAmOH4u8e6U)
 
 * go to project directory<br>
-    $ cd react-js-login-auth
+    $ cd project/path
 
 * Installation <br>
     $ npm install
